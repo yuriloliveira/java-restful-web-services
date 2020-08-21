@@ -1,3 +1,3 @@
-insert into user values (1, sysdate(), 'Joao de Santo Cristo');
-insert into user values (2, sysdate(), 'Barney o Dinossauro');
-insert into user values (3, sysdate(), 'Lindomar');
+insert into user values (10001, sysdate(), 'Joao de Santo Cristo');
+insert into user values (10002, sysdate(), 'Barney o Dinossauro');
+insert into user values (10003, sysdate(), 'Lindomar');
